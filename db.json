@@ -339,46 +339,7 @@
         "street": "6585, Hofftunet",
         "state": "Finnmark - Finnmárku"
     }
-},
-       {
-    "id": "FOxy7zUy2SiEN14m",
-    "location": {
-        "state": "Sachsen",
-        "street": "7297, Erlenweg",
-        "country": "Germany",
-        "city": "Naumburg",
-        "timezone": "-2:00"
-    },
-    "registerDate": "2020-03-05T06:01:01.893Z",
-    "dateOfBirth": "1984-11-07T01:44:23.697Z",
-    "phone": "0982-2127379",
-    "lastName": "Brand",
-    "title": "mr",
-    "firstName": "Friedrich-Karl",
-    "picture": "https://randomuser.me/api/portraits/men/7.jpg",
-    "email": "friedrich-karl.brand@example.com",
-    "gender": "male"
-},
-       {
-    "id": "G19Ya7yxByl6bUXI",
-    "email": "sibylle.leibold@example.com",
-    "gender": "female",
-    "firstName": "Sibylle",
-    "location": {
-        "city": "Heimbach",
-        "country": "Germany",
-        "state": "Sachsen",
-        "street": "138, Rosenstraße",
-        "timezone": "-6:00"
-    },
-    "picture": "https://randomuser.me/api/portraits/women/89.jpg",
-    "phone": "0221-3659630",
-    "registerDate": "2020-01-31T19:01:32.870Z",
-    "dateOfBirth": "1980-12-21T09:19:00.529Z",
-    "title": "mrs",
-    "lastName": "Leibold"
-},
-    
+}
     ]
 
 }
