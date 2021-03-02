@@ -321,24 +321,6 @@
         "state": "Ceuta"
     },
     "firstName": "Josefina"
-},{
-    "id": "FLgxIsydJ28gBIIK",
-    "email": "annabel.somby@example.com",
-    "gender": "female",
-    "title": "ms",
-    "firstName": "Annabel",
-    "dateOfBirth": "1987-05-09T23:35:30.223Z",
-    "registerDate": "2020-03-05T13:51:54.167Z",
-    "phone": "57345952",
-    "picture": "https://randomuser.me/api/portraits/women/35.jpg",
-    "lastName": "Somby",
-    "location": {
-        "timezone": "-12:00",
-        "country": "Norway",
-        "city": "Årnes",
-        "street": "6585, Hofftunet",
-        "state": "Finnmark - Finnmárku"
-    }
 }
     ]
 
