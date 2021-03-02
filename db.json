@@ -1,16 +1,10 @@
-
-    "data": [
-        {
+{
             "id": "0F8JIqi4zwvb77FG",
             "lastName": "Fiedler",
             "firstName": "Heinz-Georg",
             "email": "heinz-georg.fiedler@example.com",
             "title": "mr",
             "picture": "https://randomuser.me/api/portraits/men/81.jpg"
-        }
-       
-       
-   
-    ],
 
 
+}
