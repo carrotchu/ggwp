@@ -378,46 +378,7 @@
     "title": "mrs",
     "lastName": "Leibold"
 },
-      {
-    "id": "GorKRYsi8zHkLq9s",
-    "title": "miss",
-    "phone": "80844280",
-    "picture": "https://randomuser.me/api/portraits/women/13.jpg",
-    "registerDate": "2020-02-12T18:47:18.033Z",
-    "location": {
-        "country": "Norway",
-        "street": "5225, Hansemyrveien",
-        "city": "Vingrom",
-        "state": "Finnmark - Finnmárku",
-        "timezone": "+11:00"
-    },
-    "firstName": "Kayla",
-    "lastName": "Bredesen",
-    "gender": "female",
-    "email": "kayla.bredesen@example.com",
-    "dateOfBirth": "1958-08-20T08:43:07.057Z"
-},{
-    "id": "H1oN2F8v53t7GK0n",
-    "dateOfBirth": "1960-08-20T08:36:37.039Z",
-    "title": "mr",
-    "lastName": "Riley",
-    "firstName": "Jesus",
-    "email": "jesus.riley@example.com",
-    "picture": "https://randomuser.me/api/portraits/men/45.jpg",
-    "phone": "02-2018-4571",
-    "registerDate": "2020-01-27T19:44:33.108Z",
-    "gender": "male",
-    "location": {
-        "street": "6786, Pecan Acres Ln",
-        "timezone": "+4:30",
-        "city": "Perth",
-        "state": "New South Wales",
-        "country": "Australia"
-    }
-}
-
-
-
+    
     ]
 
 }
