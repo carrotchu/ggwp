@@ -1,10 +1,15 @@
 {
-            "id": "0F8JIqi4zwvb77FG",
-            "lastName": "Fiedler",
-            "firstName": "Heinz-Georg",
-            "email": "heinz-georg.fiedler@example.com",
-            "title": "mr",
-            "picture": "https://randomuser.me/api/portraits/men/81.jpg"
-
-
+            "users":[
+                        {
+                                    "first_name":"zam",
+                                    "last_name":"david",
+                                    "id":1,
+                        },
+                        {
+                                    "first_name":"jhozua",
+                                    "last_name":"diaz",
+                                    "id":2,
+                        }
+                        ]
+                        
 }
