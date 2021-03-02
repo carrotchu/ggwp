@@ -414,64 +414,10 @@
         "state": "New South Wales",
         "country": "Australia"
     }
-},
-     {
-    "id": "I1mblOH49Po6zZKq",
-    "location": {
-        "timezone": "+9:00",
-        "street": "892, Grande Rue",
-        "country": "France",
-        "state": "Seine-et-Marne",
-        "city": "Besançon"
-    },
-    "firstName": "Evan",
-    "gender": "male",
-    "lastName": "Roux",
-    "dateOfBirth": "1988-06-25T04:31:51.701Z",
-    "registerDate": "2020-01-10T19:31:11.245Z",
-    "phone": "02-28-80-43-91",
-    "email": "evan.roux@example.com",
-    "picture": "https://randomuser.me/api/portraits/men/59.jpg",
-    "title": "mr"
-},
-      {
-    "id": "IBeNBzh2TC0G3uNJ",
-    "lastName": "Roussel",
-    "title": "mrs",
-    "firstName": "Angelica",
-    "location": {
-        "city": "Porza",
-        "street": "9730, Rue Barrème",
-        "timezone": "-7:00",
-        "country": "Switzerland",
-        "state": "Ticino"
-    },
-    "picture": "https://randomuser.me/api/portraits/women/53.jpg",
-    "registerDate": "2020-04-07T06:51:42.514Z",
-    "dateOfBirth": "1987-05-06T12:17:51.633Z",
-    "phone": "078 394 72 28",
-    "gender": "female",
-    "email": "angelica.roussel@example.com"
-},
-     {
-    "id": "INvhEPgK32WtuD4e",
-    "dateOfBirth": "1978-01-30T04:14:10.139Z",
-    "firstName": "Konsta",
-    "location": {
-        "state": "Central Finland",
-        "timezone": "+3:00",
-        "street": "9823, Hatanpään Valtatie",
-        "city": "Lahti",
-        "country": "Finland"
-    },
-    "picture": "https://randomuser.me/api/portraits/men/24.jpg",
-    "lastName": "Manninen",
-    "title": "mr",
-    "email": "konsta.manninen@example.com",
-    "gender": "male",
-    "registerDate": "2019-12-23T00:30:26.880Z",
-    "phone": "03-163-724"
 }
+
+
+
     ]
 
 }
